@@ -1,0 +1,12 @@
+com.example.calculator.app-core-1.6.0-0 /home/sohibjon/.gradle/caches/transforms-3/5aca4b183854208aad23c8755192d4d4/transformed/core-1.6.0/res
+com.example.calculator.app-jetified-annotation-experimental-1.1.0-1 /home/sohibjon/.gradle/caches/transforms-3/62f4134079e09e4452dffc914445b592/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.calculator.app-jetified-window-java-1.0.0-beta04-2 /home/sohibjon/.gradle/caches/transforms-3/6f4186f3fd0a11f0db7d68607c8141a6/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.calculator.app-jetified-window-1.0.0-beta04-3 /home/sohibjon/.gradle/caches/transforms-3/f74440676ea58c5da47d6015e0a4718a/transformed/jetified-window-1.0.0-beta04/res
+com.example.calculator.app-debug-4 /home/sohibjon/Desktop/calculator/android/app/src/debug/res
+com.example.calculator.app-main-5 /home/sohibjon/Desktop/calculator/android/app/src/main/res
+com.example.calculator.app-pngs-6 /home/sohibjon/Desktop/calculator/build/app/generated/res/pngs/debug
+com.example.calculator.app-resValues-7 /home/sohibjon/Desktop/calculator/build/app/generated/res/resValues/debug
+com.example.calculator.app-rs-8 /home/sohibjon/Desktop/calculator/build/app/generated/res/rs/debug
+com.example.calculator.app-mergeDebugResources-9 /home/sohibjon/Desktop/calculator/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.calculator.app-mergeDebugResources-10 /home/sohibjon/Desktop/calculator/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.calculator.app-merged_res-11 /home/sohibjon/Desktop/calculator/build/app/intermediates/merged_res/debug
